@@ -17,19 +17,17 @@ The course introduces modern AI and machine learning techniques used across comp
 1. **Exploratory Data Analysis (EDA)**  
    Understanding datasets, visualisation, feature inspection, and chemical intuition building.
 
-2. **Basics of Machine Learning**  
-   Train/test splits, validation, metrics, overfitting, and workflows.
-
-3. **Classical Machine Learning Methods**  
-   Regression, classification, tree-based models, SVMs, and hyperparameter optimisation.
-
-4. **ML Descriptors for Chemistry**  
+2. **ML Descriptors for Chemistry**  
    Featurisation strategies including fingerprints, graph descriptors, and domain-specific representations.
 
-5. **Deep Learning**  
+3. **Basics of Machine Learning and classical ML**  
+   Train/test splits, validation, metrics, overfitting, and workflows.
+   Regression, classification, tree-based models, SVMs, and hyperparameter optimisation.
+
+4. **Deep Learning**  
    Neural networks, training loops, regularisation, and chemical applications.
 
-6. **Geometric Deep Learning**  
+5. **Geometric Deep Learning**  
    Graph neural networks (GNNs), message passing, and structure-aware modelling for molecules and materials.
 
 ---
